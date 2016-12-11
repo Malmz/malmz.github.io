@@ -9,7 +9,7 @@ date: "2016-12-11 11:42"
 I'll start with a small rant on C++.  
 I like C++ for the power it gives the user but there are many things wrong with it, like the syntax. It's so bad. Let's look at an example.
 
-``` C++
+```cpp
 
 //No .h extention because reasons?
 #include <iostream>
