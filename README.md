@@ -1,2 +1,2 @@
-# [malmz.github.io](malmz.github.io)
+# [malmz.github.io](https://malmz.github.io)
 My dum blog
