@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Hello World!"
+title: "C++ rant"
 date: "2016-12-11 11:42"
 ---
 
